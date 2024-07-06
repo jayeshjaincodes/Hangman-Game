@@ -37,7 +37,7 @@ Hangman is a classic word-guessing game where players attempt to guess a secret 
 
 ## Authors
 
-- [@jayesh-code](https://github.com/jayesh-code)
+- [@jayeshjaincodes](https://github.com/jayeshjaincodes)
 
 
 
